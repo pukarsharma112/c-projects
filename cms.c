@@ -1,4 +1,4 @@
-7#include <stdio.h>
+#include <stdio.h>
 #include <conio.h>
 #include <string.h>
 
